@@ -2,11 +2,10 @@ package main
 
 import (
     "fmt"
-    "code.aliyun.com/zhangwenhua1268/golang/utils"
+    "github.com/knowhow1268/golang/lesson2/demo/utils"
 )
 
 func main(){
-    fmt.Println("hello")
     fmt.Println("hello")
     utils.Printhello()
 }
